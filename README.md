@@ -1,48 +1,59 @@
-## Your Name
+## Rosie Gollancz
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a Product Manager turned Full Stack Web Developer, with an insatiable curiosity for why and how things work.
 
-## Skills
+After with 5 years’ experience in a successful digital health startup, working as a PM across multidisciplinary and distributed teams, I am seeking my first exclusively-engineering role, as a Full Stack Developer.
 
-#### This Skill
+I am looking to work with smart, determined, passionate people, in an environment that rewards curiosity and courage, and ultimately aims to make the world a better place.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (2016)
+**Software development bootcamp**
+Makers Academy is a highly selective, 16-week web development program
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+#### University of Sussex (2007 to 2010)
+**Psychology BSc, 2:1**
 
-#### Your University / College (start_date to end_date)
+Focused on Cognitive Psychology and the Psychology of Appetite and Neurobiological
+Mechanisms of Learning.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Further education
 
-#### Any other qualifications
+Jobs to be Done (Udemy)
+A course teaching the principles of the JTBD user research framework, an approach designed to extract core user needs ("jobs"), and deliver products that meet those needs.
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**TEDx San Francisco** (2016)
+*Product Manager (San Francisco)*
+Planned and implemented the content and design strategy for the TEDx San
+Francisco 2016 website.
+
+
+**Big Health** (2011 to 2016)
+*Product Manager (San Francisco)*
+Big Health is a pioneering healthcare company delivering personalized behavioral
+medicine via web and mobile to the highest standards of clinical evidence.
+- Defined the product roadmap and managed the end-to-end product development
+process across web and iOS platforms
+- Delivered custom user flows for multiple Fortune 500 companies
+- Devised “gold-standard”  communications campaigns, resulting in the highest
+engagement levels seen within one client's population
+- Completed user research training, and implemented a user research program,
+including in-person and remote testing
+
+*Community and Operations Manager (London)*
+I joined Big Health as the 3rd employee, reporting directly to the CEO, and was
+tasked with building the Sleepio user community from the ground up.
+- Grew the community user base from zero, to hundreds of thousands of users
+- Established customer support processes and team
+- Worked closely with the Engineering team, lead web and iOS QA
+- Planned and coordinated the company's move from London to San Francisco
+
+**Fold 7** (2011)   
+*Digital Marketing Intern*
+My first foray into tech, an internship focused on creating and managing
+paid search campaigns using the Google Adwords platform.
