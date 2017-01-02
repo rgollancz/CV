@@ -2,7 +2,7 @@
 
 ### Junior Full Stack Developer
 
-I am a Junior Full Stack Developer, with 5 years experience as a technical
+I am a Junior Full Stack Developer, with 5 years' experience as a technical
 Product Manager in a digital health startup, and a passion for the combination
 of efficient technological solutions and compelling user experiences.
 
@@ -25,13 +25,13 @@ potential approaches, identifying edge cases and anticipating problems.
 I am very comfortable with uncertainty, seek out novelty, and feel confident in my
 ability to rapidly upskill whenever a challenge requires it. For example, I
 recently chose to work on a project that required me to teach myself Swift in
-2 weeks to produce a realtime, multiplayer drawing game prototype called "[Drawsome](https://github.com/rgollancz/drawApp)"!
+2 weeks to build a realtime, multiplayer drawing game prototype called "[Drawsome](https://github.com/rgollancz/drawApp)"!
 
 #### Design and creativity
 Whether it's in the context of page layouts, domain models, or planning meetings,
 I appreciate and seek out good design. Working in Product, I made it my business
 to understand UX best-practices. In development I understand the impact of code
-design and visual design on efficiency, and usability and accessibility respectively.
+design and visual design on efficiency, and usability and accessibility.
 
 ### Education
 
@@ -84,9 +84,9 @@ tasked with building the Sleepio user community from the ground up.
 
 **Fold 7** (2011)   
 *Digital Marketing Intern*
-My first foray into tech was an internship focused on creating and managing
+My first foot in tech was an internship focused on creating and managing
 paid search campaigns using the Google Adwords platform. I was quickly trusted
 with the creation
 
 ## Interests
-I am never happier than when I'm rock climbing.
+Chat to me about rock climbing.
