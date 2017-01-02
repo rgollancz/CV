@@ -57,7 +57,6 @@ and deliver products that meet those needs.
 ## Experience
 
 **TEDx San Francisco** (2016)
-
 *Product Manager (San Francisco)*
 
 Planned and implemented the content and design strategy for the TEDx San
@@ -65,7 +64,6 @@ Francisco 2016 website.
 
 
 **Big Health** (2011 to 2016)
-
 *Product Manager (San Francisco)*
 
 Big Health is a pioneering healthcare company delivering personalized behavioral
@@ -88,7 +86,6 @@ tasked with building the Sleepio user community from the ground up.
 - Planned and coordinated the company's move from London to San Francisco
 
 **Fold 7** (2011)   
-
 *Digital Marketing Intern*
 
 My first foot in tech was an internship focused on creating and managing
